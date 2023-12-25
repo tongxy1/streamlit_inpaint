@@ -1,0 +1,8 @@
+numpy
+streamlit
+opencv-python-headless
+pathlib
+streamlit_drawable_canvas
+io
+base64
+PIL
